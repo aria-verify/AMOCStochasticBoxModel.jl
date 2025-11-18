@@ -1,9 +1,9 @@
 # AMOCStochasticBoxModel
 
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://github-pages.ucl.ac.uk/AMOCStochasticBoxModel.jl/stable/)
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://github-pages.ucl.ac.uk/AMOCStochasticBoxModel.jl/dev/)
-[![Build Status](https://github.com/UCL/AMOCStochasticBoxModel.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/UCL/AMOCStochasticBoxModel.jl/actions/workflows/CI.yml?query=branch%3Amain)
-[![Coverage](https://codecov.io/gh/UCL/AMOCStochasticBoxModel.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/UCL/AMOCStochasticBoxModel.jl)
+[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://aria-verify.github.io/AMOCStochasticBoxModel.jl/stable/)
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://aria-verify.github.io/AMOCStochasticBoxModel.jl/dev/)
+[![Build Status](https://github.com/aria-verify/AMOCStochasticBoxModel.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/aria-verify/AMOCStochasticBoxModel.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![Coverage](https://codecov.io/gh/aria-verify/AMOCStochasticBoxModel.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/aria-verify/AMOCStochasticBoxModel.jl)
 
 Julia implementation of Atlantic meridional overturning circulation (AMOC) stochastic box model described in 
 [Soons, Grafke & Dijkstra (2024)](https://doi.org/10.1175/JPO-D-23-0234.1).
